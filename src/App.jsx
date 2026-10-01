@@ -3,7 +3,6 @@ import "./App.css";
 function App() {
   return (
     <>
-      {/* CABEÇALHO */}
       <header>
         <div className="container">
           <div className="logo">
